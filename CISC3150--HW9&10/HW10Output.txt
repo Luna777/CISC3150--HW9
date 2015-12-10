@@ -1,0 +1,8 @@
+enter your command> notepad
+executed:[notepad]
+enter your command> notepad&
+executed:[notepad]
+enter your command> cmd& > cmdOutput.txt
+executed:[cmd]
+redirect output to: cmdOutput.txt
+enter your command> 
